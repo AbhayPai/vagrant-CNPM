@@ -1,0 +1,3 @@
+# vagrant CNPM
+192.168.10.0 	www.wdscnmp.local wdscnmp.local
+192.168.10.0 	www.webpack-app1.local webpack-app1.local
